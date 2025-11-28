@@ -14,25 +14,21 @@ El sistema está diseñado para que cualquier persona, con o sin experiencia en 
 
 Para iniciar el sistema, ejecuta el archivo principal del proyecto en Python. Al hacerlo, se mostrará el siguiente menú mas o menos asi:
 
-
-BIBLIOTECA INTELIGENTE
-
-Libros
-
-Usuarios
-
-Prestamos
-
-Categorias
-
-Relaciones entre libros
-
-Historial
-
-Guardar y salir
+                                          -----------------------------------------------------------
+                                                              BIBLIOTECA INTELIGENTE                
+                                          -----------------------------------------------------------
+                                          1. Libros
+                                          2. Usuarios
+                                          3. Prestamos
+                                          4. Categorias
+                                          5. Relaciones entre libros
+                                          6. Historial
+                                          0. Guardar y salir
+                                          -----------------------------------------------------------
+                                          Ingrese una opcion:
 
 
-Solo debes escribir el número de la opción deseada y presionar Enter.
+ESO SI. Solo debes escribir el número de la opción deseada y presionar Enter.
 
 ---
 
