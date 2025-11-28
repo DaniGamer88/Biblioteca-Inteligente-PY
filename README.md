@@ -125,6 +125,7 @@ Guarda toda la información y finaliza el programa. Es importante usar esta opci
 | Categoría no se encuentra | Ruta mal escrita   | Revisar el formato         |
 | Relación no creada        | Título mal escrito | Revisar ortografía         |
 
+Cabe recalcar tambien **este archivo trae consigo una librera "Tabulate"** las demas tendras que instalarlas si es necesario.
 
 ## 6. Cierre
 
